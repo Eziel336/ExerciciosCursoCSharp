@@ -1,6 +1,6 @@
 # Lógica de Programação com C#
 
-![Status do Curso](https://img.shields.io/badge/Curso%20Concluído-Em%20Andamento-brightgreen)  
+![Andamento do Curso](https://img.shields.io/badge/Curso%20Concluído-Em%20Andamento-brightgreen)  
 [![Udemy](https://img.shields.io/badge/Udemy-Curso%20Disponível-blue)](https://www.udemy.com/share/101tTs3@Io2byeNT7FxYC860HbPiR8pS0bNym1ZOdEAs-WdXA3T8TvWWRGIPWOBxkWLrxHwd/)
 
 ## Descrição do Curso
