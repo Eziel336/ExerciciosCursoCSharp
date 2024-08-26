@@ -1,6 +1,6 @@
 # Lógica de Programação com C#
 
-![Curso Completo](https://img.shields.io/badge/Curso%20Concluído-Em%20Andamento-brightgreen)  
+![Status do Curso](https://img.shields.io/badge/Curso%20Concluído-Em%20Andamento-brightgreen)  
 [![Udemy](https://img.shields.io/badge/Udemy-Curso%20Disponível-blue)](https://www.udemy.com/share/101tTs3@Io2byeNT7FxYC860HbPiR8pS0bNym1ZOdEAs-WdXA3T8TvWWRGIPWOBxkWLrxHwd/)
 
 ## Descrição do Curso
@@ -20,14 +20,14 @@ Este repositório é uma demonstração prática dos meus estudos em **Lógica d
 
 Estou utilizando este repositório para documentar e compartilhar meu progresso nos seguintes tópicos:
 
-- **[x]** Introdução à Programação
-- **[ ]** Expressões Aritméticas, Comparativas e Lógicas
-- **[ ]** Estruturas Sequenciais
-- **[x]** Comandos de Entrada, Processamento e Saída de Dados
-- **[ ]** Estruturas Condicionais (`if/else`)
-- **[ ]** Estruturas Repetitivas (`while`, `for`)
-- **[ ]** Vetores
-- **[ ]** Matrizes
+- [x] Introdução à Programação
+- [ ] Expressões Aritméticas, Comparativas e Lógicas
+- [ ] Estruturas Sequenciais
+- [x] Comandos de Entrada, Processamento e Saída de Dados
+- [ ] Estruturas Condicionais (`if/else`)
+- [ ] Estruturas Repetitivas (`while`, `for`)
+- [ ] Vetores
+- [ ] Matrizes
 
 ## Abordagem de Estudo
 
