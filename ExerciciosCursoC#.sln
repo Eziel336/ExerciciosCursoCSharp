@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exercisios1009", "Exercicio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "testandoexercicio", "ExerciciosCursoC#\testandoexercicio\testandoexercicio.csproj", "{0FA95282-49A4-46B1-9517-FAE1029950AB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teste exercicio1009", "ExerciciosCursoC#\Teste exercicio1009\Teste exercicio1009.csproj", "{CB4092E7-8AC1-4580-ADDA-925042414CCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1009-SalarioComBonus", "ExerciciosCursoC#\Teste exercicio1009\1009-SalarioComBonus.csproj", "{CB4092E7-8AC1-4580-ADDA-925042414CCD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
