@@ -21,9 +21,12 @@ namespace teste
             string nome;
             double salariofixo, totalvenda, salariototal;
 
-            Console.WriteLine("Digite o nome ", nome = Console.ReadLine()) ;
-            Console.WriteLine("Digite o Salario Fixo ", salariofixo = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture));
-            Console.WriteLine("Digite o valor total da venda ", totalvenda = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture));
+            Console.WriteLine("Digite o nome ");
+            nome = Console.ReadLine();
+            Console.WriteLine("Digite o Salário Fixo: ");
+            salariofixo = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.WriteLine("Digite o valor total da venda ");
+            totalvenda = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             ;
 
             salariototal = totalvenda * 15.0 / 100 + salariofixo;

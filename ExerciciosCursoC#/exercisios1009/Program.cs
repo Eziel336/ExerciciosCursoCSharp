@@ -15,8 +15,11 @@ using System.Globalization;
 string nome;
 double salariofixo, totalvendas, salariototal;
 
+Console.WriteLine("Digite o nome: ");
 nome = Console.ReadLine();
+Console.WriteLine("Digite o Salário Fixo: ");
 salariofixo = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+Console.WriteLine("Digite o valor total da venda: ");
 totalvendas = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
 salariototal = totalvendas * 15.0 / 100 + salariofixo;
